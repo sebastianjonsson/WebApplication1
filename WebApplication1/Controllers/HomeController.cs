@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public ActionResult Profil()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application  page.";
 
             return View();
         }
